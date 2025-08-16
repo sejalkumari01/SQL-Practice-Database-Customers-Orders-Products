@@ -8,5 +8,4 @@ Joins (INNER, LEFT, RIGHT)
 Subqueries & correlated queries
 Window functions (ROW_NUMBER, RANK, LAG, LEAD)
 Common Table Expressions (CTEs)
-Stored procedures & triggers
-This project can be used as a portfolio showcase for SQL skills or as a hands-on resource for practicing SQL concepts.
+Stored procedures & triggers.
