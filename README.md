@@ -1,2 +1,22 @@
-# SQL-Practice-Database-Customers-Orders-Products
-A practice SQL project demonstrating database design, data insertion, and advanced SQL queries including joins, aggregations, subqueries, window functions, CTEs, stored procedures, and triggers.
+This project is a SQL practice database built around a simple customer–order–product model.
+It includes:
+
+Database schema creation (customers, products, orders, order_items)
+
+Sample data insertion
+
+Queries covering basic to advanced SQL concepts:
+
+Filtering, sorting, aggregation (WHERE, GROUP BY, HAVING)
+
+Joins (INNER, LEFT, RIGHT)
+
+Subqueries & correlated queries
+
+Window functions (ROW_NUMBER, RANK, LAG, LEAD)
+
+Common Table Expressions (CTEs)
+
+Stored procedures & triggers
+
+This project can be used as a portfolio showcase for SQL skills or as a hands-on resource for practicing SQL concepts.
